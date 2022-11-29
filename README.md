@@ -16,7 +16,7 @@ sample
 ```
 要求：css需要引入我的theme.js，布局可以自行修改，但是背景、字体（不包括颜色，fontsize）应该和我的保持一致
 
-另外我在https://rgyakazkq7.feishu.cn/docx/FXVRdscCzol4T5xwGMMc1ATUnvh文档更新了css极速教程，建议看看
+另外我在https://rgyakazkq7.feishu.cn/docx/FXVRdscCzol4T5xwGMMc1ATUnvh 文档更新了css极速教程，建议看看
 
 sample.html是我用来做实验的，方便查看布局
 
