@@ -2,7 +2,7 @@
 字体文件太大传不上去，放群里
 以下是文件树
 ```
-sample
+visualization
 ├─ css
 │  └─ theme.css
 ├─ echarts.min.js
